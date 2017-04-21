@@ -1,6 +1,7 @@
 package cn.com.xbed
 
 import java.io._
+import java.lang
 
 import scala.collection.immutable.Nil
 import scala.io.Source
@@ -33,9 +34,19 @@ object HelloScala {
     //        match1(Array(4))
     //    break()
     //    withPrintWriter(new File("pom.xml"), writer => writer.println(new java.util.Date))
-        withPrintWriter1(new File("pom.xml"))(writer => println(new java.util.Date))
-
+//        withPrintWriter1(new File("pom.xml"))(writer => println(new java.util.Date))
+//    assert(() => 5>3)
+//    assert1(5>6)
+    val element = new ArrayElement(Array("hello","world"))
+    println(element.height)
+    println(element.width)
   }
+
+  def assert1(predicate: => Boolean) =
+    if(!predicate) throw new AssertionError
+
+  def assert(predicate : () => Boolean) =
+    if(!predicate()) throw new AssertionError
 
   def withPrintWriter1(file:File)(op: PrintWriter => Unit): Unit ={
     val writer=new PrintWriter(file)

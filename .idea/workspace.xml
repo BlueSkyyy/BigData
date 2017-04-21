@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e1d3ee-9e6e-41a6-8a0b-c4d8f7afbef2" name="Default" comment="" />
+    <list default="true" id="14e1d3ee-9e6e-41a6-8a0b-c4d8f7afbef2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/ArrayElement.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/Element.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$main$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$array$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$array$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$array1$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$array1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$3.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file1$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file5$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$file5$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$3.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2$$anonfun$apply$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2$$anonfun$apply$4.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2$$anonfun$apply$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2$$anonfun$apply$5.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2$$anonfun$apply$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2$$anonfun$apply$6.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2$$anonfun$apply$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2$$anonfun$apply$7.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2$$anonfun$apply$7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$grep$3$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$loop$1.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$$anonfun$loop$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/HelloScala.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloScala.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloScala.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="237">
+              <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
               <folding>
                 <element signature="e#21#37#0" expanded="true" />
               </folding>
@@ -46,7 +77,40 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Element.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/Element.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayElement.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/ArrayElement.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Source.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/io/Source.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -56,8 +120,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/Element.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/ArrayElement.scala" />
       </list>
     </option>
   </component>
@@ -111,10 +177,11 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -725,28 +792,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492756907958</updated>
-      <workItem from="1492756910331" duration="227000" />
+      <workItem from="1492756910331" duration="6816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227000" />
+    <option name="totallyTimeSpent" value="6816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="0" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711306" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962757" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962757" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32162458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -798,13 +865,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/scala/io/Source.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/Element.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/HelloScala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="237">
+          <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
           <folding>
             <element signature="e#21#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/ArrayElement.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
