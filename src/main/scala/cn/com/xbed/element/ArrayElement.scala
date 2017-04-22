@@ -14,4 +14,5 @@ class ArrayElement(val x :Array[String]) extends Element{val contents: Array[Str
   override def demo(): Unit = {
     println("ArrayElement's implementation invoked")
   }
+
 }

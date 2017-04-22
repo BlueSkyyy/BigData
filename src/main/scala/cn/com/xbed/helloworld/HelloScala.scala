@@ -52,6 +52,7 @@ object HelloScala {
     invokeDemo(new UniformElement('a',23,3))
   }
 
+
   def invokeDemo(e:Element): Unit ={
     e.demo()
   }
