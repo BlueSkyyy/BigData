@@ -1,4 +1,4 @@
-package cn.com.xbed
+package cn.com.xbed.element
 
 /**
   * Created by root on 17-4-21.

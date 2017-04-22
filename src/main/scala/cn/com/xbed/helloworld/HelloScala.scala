@@ -1,7 +1,6 @@
-package cn.com.xbed
+package cn.com.xbed.helloworld
 
 import java.io._
-import java.lang
 
 import scala.collection.immutable.Nil
 import scala.io.Source
@@ -11,35 +10,35 @@ import scala.io.Source
   */
 object HelloScala {
   def main(args: Array[String]): Unit = {
-    //        greet();
-    //        loop(;
-    //        loop("scala");
-    //        loop(Array(1,2,3,4,5));
-    //        array()
-    //        array1()
-    //        list()
-    //        list1()
-    //        list2()
-    //        turples()
-    //        set()
-    //        map()
-    //        file()
-    //        file1()
-    //        file2()
-    //        file3()
-    //        file4()
-    //        file5()
-    //        exception(2)
-    //        exception2()
-    //        match1(Array(4))
-    //    break()
-    //    withPrintWriter(new File("pom.xml"), writer => writer.println(new java.util.Date))
+//            greet();
+//            loop(;
+//            loop("scala");
+//            loop(Array(1,2,3,4,5));
+//            array()
+//            array1()
+//            list()
+//            list1()
+//            list2()
+//            turples()
+//            set()
+//            map()
+//            file()
+//            file1()
+//            file2()
+//            file3()
+//            file4()
+//            file5()
+//            exception(2)
+//            exception2()
+//            match1(Array(4))
+//        break()
+//        withPrintWriter(new File("pom.xml"), writer => writer.println(new java.util.Date))
 //        withPrintWriter1(new File("pom.xml"))(writer => println(new java.util.Date))
 //    assert(() => 5>3)
-//    assert1(5>6)
-    val element = new ArrayElement(Array("hello","world"))
-    println(element.height)
-    println(element.width)
+//    assert1(5<6)
+//    val element = new ArrayElement(Array("hello","world"))
+//    println(element.height)
+//    println(element.width)
   }
 
   def assert1(predicate: => Boolean) =

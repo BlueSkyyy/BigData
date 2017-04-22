@@ -1,4 +1,4 @@
-package cn.com.xbed
+package cn.com.xbed.helloworld
 
 /**
  * Hello world!

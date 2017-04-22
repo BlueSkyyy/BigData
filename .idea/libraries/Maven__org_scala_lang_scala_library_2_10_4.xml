@@ -3,19 +3,19 @@
     <properties>
       <option name="languageLevel" value="Scala_2_10" />
       <compiler-classpath>
-        <root url="file:///usr/local/mvn/repository/org/scala-lang/scala-compiler/2.10.4/scala-compiler-2.10.4.jar" />
-        <root url="file:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar" />
-        <root url="file:///usr/local/mvn/repository/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar" />
+        <root url="file://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-compiler/2.10.4/scala-compiler-2.10.4.jar" />
+        <root url="file://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar" />
+        <root url="file://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar" />
       </compiler-classpath>
     </properties>
     <CLASSES>
-      <root url="jar:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar:///usr/local/mvn/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../developkit/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
