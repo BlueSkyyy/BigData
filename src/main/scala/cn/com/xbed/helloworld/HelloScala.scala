@@ -2,6 +2,8 @@ package cn.com.xbed.helloworld
 
 import java.io._
 
+import cn.com.xbed.element.{ArrayElement, Element, LineElement, UniformElement}
+
 import scala.collection.immutable.Nil
 import scala.io.Source
 
@@ -39,6 +41,19 @@ object HelloScala {
 //    val element = new ArrayElement(Array("hello","world"))
 //    println(element.height)
 //    println(element.width)
+//    //测试继承多态
+//    val e1 : Element = new ArrayElement(Array("hello","world"))
+//    val e2 : ArrayElement = new LineElement("hello")
+//    val e3 : Element = e2
+//    val e4 : Element = new UniformElement('a',2,3)
+
+    invokeDemo(new ArrayElement(Array("hello")))
+    invokeDemo(new LineElement("Helllo"))
+    invokeDemo(new UniformElement('a',23,3))
+  }
+
+  def invokeDemo(e:Element): Unit ={
+    e.demo()
   }
 
   def assert1(predicate: => Boolean) =

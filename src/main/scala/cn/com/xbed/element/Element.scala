@@ -10,6 +10,10 @@ abstract class Element {
   def width:Int = if(height == 0) 0 else contents(0).length
 
   //定义成员变量
-  val height1 = contents.length
-  val width1 = if(height == 0) 0 else contents(0).length
+//  val height1 = contents.length
+//  val width1 = if(height == 0) 0 else contents(0).length
+
+  def demo() {
+    println("Element's implementation invoked")
+  }
 }
