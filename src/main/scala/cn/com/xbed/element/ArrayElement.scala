@@ -11,8 +11,8 @@ package cn.com.xbed.element
 //class ArrayElement(val contents :Array[String]) extends Element {}
 class ArrayElement(val x :Array[String]) extends Element{val contents: Array[String] = x
 
-  override def demo(): Unit = {
-    println("ArrayElement's implementation invoked")
-  }
+//  override def demo(): Unit = {
+//    println("ArrayElement's implementation invoked")
+//  }
 
 }

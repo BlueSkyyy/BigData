@@ -11,51 +11,51 @@ import scala.io.Source
   * Created by root on 17-4-12.
   */
 object HelloScala {
-  def main(args: Array[String]): Unit = {
-//            greet();
-//            loop(;
-//            loop("scala");
-//            loop(Array(1,2,3,4,5));
-//            array()
-//            array1()
-//            list()
-//            list1()
-//            list2()
-//            turples()
-//            set()
-//            map()
-//            file()
-//            file1()
-//            file2()
-//            file3()
-//            file4()
-//            file5()
-//            exception(2)
-//            exception2()
-//            match1(Array(4))
-//        break()
-//        withPrintWriter(new File("pom.xml"), writer => writer.println(new java.util.Date))
-//        withPrintWriter1(new File("pom.xml"))(writer => println(new java.util.Date))
-//    assert(() => 5>3)
-//    assert1(5<6)
-//    val element = new ArrayElement(Array("hello","world"))
-//    println(element.height)
-//    println(element.width)
-//    //测试继承多态
-//    val e1 : Element = new ArrayElement(Array("hello","world"))
-//    val e2 : ArrayElement = new LineElement("hello")
-//    val e3 : Element = e2
-//    val e4 : Element = new UniformElement('a',2,3)
+//  def main(args: Array[String]): Unit = {
+////            greet();
+////            loop(;
+////            loop("scala");
+////            loop(Array(1,2,3,4,5));
+////            array()
+////            array1()
+////            list()
+////            list1()
+////            list2()
+////            turples()
+////            set()
+////            map()
+////            file()
+////            file1()
+////            file2()
+////            file3()
+////            file4()
+////            file5()
+////            exception(2)
+////            exception2()
+////            match1(Array(4))
+////        break()
+////        withPrintWriter(new File("pom.xml"), writer => writer.println(new java.util.Date))
+////        withPrintWriter1(new File("pom.xml"))(writer => println(new java.util.Date))
+////    assert(() => 5>3)
+////    assert1(5<6)
+////    val element = new ArrayElement(Array("hello","world"))
+////    println(element.height)
+////    println(element.width)
+////    //测试继承多态
+////    val e1 : Element = new ArrayElement(Array("hello","world"))
+////    val e2 : ArrayElement = new LineElement("hello")
+////    val e3 : Element = e2
+////    val e4 : Element = new UniformElement('a',2,3)
+//
+//    invokeDemo(new ArrayElement(Array("hello")))
+//    invokeDemo(new LineElement("Helllo"))
+//    invokeDemo(new UniformElement('a',23,3))
+//  }
 
-    invokeDemo(new ArrayElement(Array("hello")))
-    invokeDemo(new LineElement("Helllo"))
-    invokeDemo(new UniformElement('a',23,3))
-  }
 
-
-  def invokeDemo(e:Element): Unit ={
-    e.demo()
-  }
+//  def invokeDemo(e:Element): Unit ={
+//    e.demo()
+//  }
 
   def assert1(predicate: => Boolean) =
     if(!predicate) throw new AssertionError
