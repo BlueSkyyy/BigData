@@ -1,0 +1,41 @@
+total 76
+drwxrwxrwx 19 root root 4096 4月  25 09:47 .
+drwxrwxrwx 37 tom  tom  4096 4月  26 19:37 ..
+drwxrwxrwx  8 root root 4096 4月  26 10:30 Accounts
+drwxr-xr-x  8 root root 4096 4月  19 20:22 Analysis
+drwxr-xr-x  6 root root 4096 4月  26 20:31 BigData
+drwxr-xr-x  5 root root 4096 4月  24 10:12 CommentSystem
+drwxr-xr-x  6 root root 4096 4月  24 10:11 CommonEventSystem
+drwxrwxrwx  5 root root 4096 4月   6 20:40 DoorLockApi
+drwxrwxrwx  8 root root 4096 4月  25 19:40 Gateway
+drwxrwxrwx  8 root root 4096 4月  14 15:56 Marketing
+drwxr-xr-x  8 root root 4096 4月  25 10:43 messageNotifySystem
+drwxrwxrwx  9 root root 4096 4月  26 14:37 OrderApi
+drwxr-xr-x  7 root root 4096 4月  25 09:52 OtaSyncSystem
+drwxr-xr-x  6 root root 4096 4月  21 17:00 Owner
+drwxr-xr-x  8 root root 4096 4月  20 17:14 RoomApi
+drwxr-xr-x 30 root root 4096 4月  20 11:56 spark
+
+drwxr-xr-x  8 root root 4096 4月  25 18:43 ToolApi
+drwxrwxrwx  8 root root 4096 4月  26 09:53 UserApi
+drwxrwxrwx 20 root root 4096 4月   6 20:42 xbed_oms
+total 76
+drwxrwxrwx 19 root root 4096 4月  25 09:47 .
+drwxrwxrwx 37 tom  tom  4096 4月  26 19:37 ..
+drwxrwxrwx  8 root root 4096 4月  26 10:30 Accounts
+drwxr-xr-x  8 root root 4096 4月  19 20:22 Analysis
+drwxr-xr-x  6 root root 4096 4月  26 20:31 BigData
+drwxr-xr-x  5 root root 4096 4月  24 10:12 CommentSystem
+drwxr-xr-x  6 root root 4096 4月  24 10:11 CommonEventSystem
+drwxrwxrwx  5 root root 4096 4月   6 20:40 DoorLockApi
+drwxrwxrwx  8 root root 4096 4月  25 19:40 Gateway
+drwxrwxrwx  8 root root 4096 4月  14 15:56 Marketing
+drwxr-xr-x  8 root root 4096 4月  25 10:43 messageNotifySystem
+drwxrwxrwx  9 root root 4096 4月  26 14:37 OrderApi
+drwxr-xr-x  7 root root 4096 4月  25 09:52 OtaSyncSystem
+drwxr-xr-x  6 root root 4096 4月  21 17:00 Owner
+drwxr-xr-x  8 root root 4096 4月  20 17:14 RoomApi
+drwxr-xr-x 30 root root 4096 4月  20 11:56 spark
+drwxr-xr-x  8 root root 4096 4月  25 18:43 ToolApi
+drwxrwxrwx  8 root root 4096 4月  26 09:53 UserApi
+drwxrwxrwx 20 root root 4096 4月   6 20:42 xbed_oms
