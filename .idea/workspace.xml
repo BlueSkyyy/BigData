@@ -5,108 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="387bdc07-ea9b-41f6-8c4d-c4c45a5ad9bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_12_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/BMWCar.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Car.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/package.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/Element$$anonfun$beside$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/Element$$anonfun$beside$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/UniformElement$$anonfun$contents$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$array$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$array1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$file$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$file1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$file1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$file1$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$file5$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$1$2$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$1$2$$anonfun$apply$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$1$2$$anonfun$apply$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$2$2$$anonfun$apply$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$2$2$$anonfun$apply$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$3$2$$anonfun$apply$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$3$2$$anonfun$apply$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$grep$3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$$anonfun$loop$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$readBinery$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$readFromUrl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$readLine$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$subDirs$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$$anonfun$subDirs$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Philosophical$class.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Rectangular$class.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/dataBase/DataBase$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/dataBase/DataBase$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/dataBase/DataBase.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/dataBase/DataBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/ArrayElement.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/ArrayElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/Element.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/Element.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/LineElement.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/LineElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/UniformElement.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/UniformElement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Element$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Element$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Element.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Element.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Spiral$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Spiral$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Spiral.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/element/elementobj/Spiral.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/extend/Cat.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/extend/Cat.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/extend/Tiger.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/extend/Tiger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/App$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/App$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/App.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/helloworld/HelloScala.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/io/readLines.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Animal.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Animal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Frog.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Frog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Philosophical.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/Philosophical.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Component.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Component.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Point.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Rectangle.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Rectangular.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/Rectangular.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole$.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole.class" afterPath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitTest/TestConsole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BMWCarId.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BYDCarId.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarGreeting.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarId.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarTest.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/com/xbed/traitExample/test.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/test.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/AnimalTest.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BigData.iml" afterPath="$PROJECT_DIR$/BigData.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.txt" afterPath="$PROJECT_DIR$/a.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/dataBase/DataBase.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/dataBase/DataBase.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/ArrayElement.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/ArrayElement.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/Element.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/Element.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/LineElement.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/LineElement.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/UniformElement.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/UniformElement.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/elementobj/Element.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/elementobj/Element.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/elementobj/Spiral.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/elementobj/Spiral.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Cat.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Cat.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Tiger.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Tiger.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/App.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/App.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/HelloScala.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/HelloScala.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/io/readLines.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/io/readLines.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Animal.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Animal.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Frog.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Frog.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Philosophical.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Philosophical.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/test.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Component.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Component.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Point.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Point.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Rectangle.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Rectangle.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Rectangular.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/Rectangular.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/TestConsole.scala" afterPath="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitTest/TestConsole.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/term.sql" afterPath="$PROJECT_DIR$/term.sql" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -147,7 +54,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/package.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -157,18 +64,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Animal.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/test.scala">
+      <file leaf-file-name="AnimalTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/AnimalTest.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
               <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
@@ -177,11 +74,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tiger.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Tiger.scala">
+      <file leaf-file-name="CarTest.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            <state relative-caret-position="240">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarGreeting.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarGreeting.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Philosophical.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Philosophical.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarId.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarId.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BYDCarId.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BYDCarId.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BMWCarId.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BMWCarId.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -195,46 +142,6 @@
               <folding>
                 <element signature="e#32#48#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayElement.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/ArrayElement.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Element.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/Element.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="47" column="15" lean-forward="false" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Car.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Car.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BMWCar.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/BMWCar.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -307,6 +214,12 @@
         <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/Car.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/extend/BMWCar.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarId.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/AnimalTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarGreeting.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BMWCarId.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BYDCarId.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarTest.scala" />
       </list>
     </option>
   </component>
@@ -474,160 +387,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="package.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="element" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BigData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbed" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dataBase" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -636,7 +395,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -666,27 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyCar">
-    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.com.xbed.traitExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.com.xbed.traitExample.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BigData" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CarTest">
     <configuration default="false" name="DataBase" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -750,6 +489,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="cn.com.xbed.MyCar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BigData" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CarTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.com.xbed.traitExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.com.xbed.traitExample.CarTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1207,19 +966,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DataBase" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HelloScala" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HelloScala (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyCar" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DataBase" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HelloScala" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HelloScala (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyCar" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CarTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyCar" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloScala" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HelloScala (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DataBase" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CarTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyCar" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloScala" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HelloScala (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DataBase" />
       </list>
     </recent_temporary>
   </component>
@@ -1250,12 +1009,12 @@
       <workItem from="1497671619760" duration="1642000" />
       <workItem from="1497774747467" duration="1069000" />
       <workItem from="1501291047534" duration="4923000" />
-      <workItem from="1501378030750" duration="581000" />
+      <workItem from="1501378030750" duration="2135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44475000" />
+    <option name="totallyTimeSpent" value="46029000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1273,6 +1032,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22330096" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1296,7 +1056,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22330096" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23068371" sideWeight="0.5052317" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1358,43 +1117,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/HelloScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/Element.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/App.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/ArrayElement.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/helloworld/App.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1593,14 +1315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Philosophical.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/element/LineElement.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1621,14 +1335,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-140">
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1703,6 +1409,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/Philosophical.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/AnimalTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarGreeting.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BMWCarId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/BYDCarId.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/cn/com/xbed/traitExample/CarTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding />
         </state>
       </provider>
