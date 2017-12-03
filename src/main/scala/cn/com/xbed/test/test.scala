@@ -1,4 +1,4 @@
-package cn.com.xbed.helloworld
+package cn.com.xbed.test
 
 import java.io._
 
@@ -8,7 +8,7 @@ import scala.io.Source
 /**
   * Created by root on 17-4-12.
   */
-object HelloScala {
+object test {
   def main(args: Array[String]): Unit = {
 //            greet();
 //            loop(;
